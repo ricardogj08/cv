@@ -2,18 +2,18 @@
 
 # RICARDO GARCÍA JIMÉNEZ
 
-\[ 📱 (461) 235 4175 ] -
-\[ 📍 Salvatierra, Guanajuato, México ] -
-\[ ✉️ [ricardogj08@riseup.net](mailto:ricardogj08@riseup.net) ] -
-\[ 🔗 [CV](https://ricardogj08.github.io/cv/) ]
+📱 (461) 235 4175 \|
+📍 Salvatierra, Guanajuato, México \|
+✉️ [ricardogj08@riseup.net](mailto:ricardogj08@riseup.net) \|
+🔗 [CV](https://ricardogj08.github.io/cv/)
 
-\[ 🔗 [Repositorio](https://notabug.org/ricardogj08) ] -
-\[ 🔗 [Github](https://github.com/ricardogj08) ] -
-\[ 🔗 [WhatsApp](https://wa.me/524612354175) ] -
-\[ 🔗 [LinkedIn](https://www.linkedin.com/in/ricardogj08) ] -
-\[ 🔗 [Telegram](https://t.me/ricardogj08) ] -
-\[ 🔗 [Facebook](https://www.facebook.com/ricardogj08) ] -
-\[ 🔗 [Instagram](https://www.instagram.com/ricardogj08) ]
+🔗 [Repositorio](https://notabug.org/ricardogj08) \|
+🔗 [Github](https://github.com/ricardogj08) \|
+🔗 [WhatsApp](https://wa.me/524612354175) \|
+🔗 [LinkedIn](https://www.linkedin.com/in/ricardogj08) \|
+🔗 [Telegram](https://t.me/ricardogj08) \|
+🔗 [Facebook](https://www.facebook.com/ricardogj08) \|
+🔗 [Instagram](https://www.instagram.com/ricardogj08)
 
 ## DESARROLLADOR WEB
 
