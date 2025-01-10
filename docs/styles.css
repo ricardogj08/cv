@@ -1,0 +1,103 @@
+/* Estilo general para el cuerpo */
+body {
+  background-color: #1e1e2f; /* Fondo oscuro */
+  color: #ffffff; /* Texto en blanco */
+  font-family: 'Courier New', Courier, monospace; /* Fuente tipo terminal */
+  font-size: 14px; /* Tamaño de fuente pequeña */
+  line-height: 1.5; /* Espaciado entre líneas */
+}
+
+/* Estilos para encabezados */
+h1 {
+  color: #ff007f; /* Rosa brillante */
+  border-bottom: 2px solid #00ffcc; /* Subrayado cian */
+  padding-bottom: 10px;
+}
+
+h2 {
+  color: #00ffcc; /* Cian brillante */
+  border-bottom: 1px solid #ff007f; /* Subrayado rosa */
+  padding-bottom: 8px;
+}
+
+h3 {
+  color: #ffd700; /* Amarillo dorado */
+}
+
+/* Estilos para párrafos */
+p {
+  color: #e6e6e6; /* Gris claro */
+}
+
+/* Estilos para enlaces */
+a {
+  color: #00ffff; /* Cian */
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #ff00ff; /* Magenta al pasar el ratón */
+}
+
+/* Estilos para listas */
+ul, ol {
+  margin-left: 20px;
+}
+
+li {
+  color: #ffffff; /* Texto de lista en blanco */
+}
+
+/* Estilos para bloques de código */
+pre {
+  background-color: #282a36; /* Fondo oscuro para bloques de código */
+  color: #f8f8f2; /* Texto claro */
+  padding: 10px;
+  border-radius: 5px;
+  overflow: auto;
+}
+
+code {
+  background-color: #44475a; /* Fondo para código en línea */
+  color: #50fa7b; /* Verde brillante */
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+/* Estilos para citas */
+blockquote {
+  border-left: 5px solid #ff79c6; /* Borde rosa */
+  padding-left: 10px;
+  color: #f8f8f2; /* Texto claro */
+  margin-left: 0;
+}
+
+/* Estilos para tablas */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #6272a4; /* Borde azul claro */
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #44475a; /* Fondo de encabezados */
+  color: #50fa7b; /* Texto verde */
+}
+
+/* Estilos para imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  border: 2px solid #ff79c6; /* Borde rosa */
+}
+
+/* Estilos para el resaltado */
+.highlight {
+  background-color: #ffb86c; /* Amarillo pastel */
+  color: #282a36; /* Texto oscuro */
+}
