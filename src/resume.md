@@ -2,7 +2,7 @@
 
 # RICARDO GARCÍA JIMÉNEZ
 
-📱 (461) 235 4175 \|
+📱 [(461) 235 4175](tel:4612354175) \|
 📍 Salvatierra, Guanajuato, México \|
 ✉️ [ricardogj08@riseup.net](mailto:ricardogj08@riseup.net) \|
 🔗 [CV](https://ricardogj08.github.io/cv/) \|
@@ -24,16 +24,26 @@ Ingeniero en Sistemas Computacionales especializado en el desarrollo web de APIs
 
 `PHP`
 `CodeIgniter 4`
+`Flight PHP`
 `MySQL/MariaDB`
 `HTML`
 `Tailwind CSS`
 `GNU/Linux`
 `Shell Scripting`
 `Mantenimiento y armado de equipos de computo`
+`Lua`
 
 ## EXPERIENCIA LABORAL
 
-### Desarrollador backend
+### Programador PHP
+
+**Desarrollo independiente**
+
+*Enero 2025 - Marzo 2025*
+
+Diseño y desarrollo de una API RESTful con PHP/Flight y bases de datos con MariaDB del evento deportivo de frontenis *"Torneo de las Fresas Irapuato 2025"*, para la gestión de jugadores, asignación de parejas, sorteo de grupos de parejas y partidos, gestión de partidos y ranking de parejas. Además de un desarrollo propio de documentación para la API.
+
+### Programador PHP
 
 **Genotipo**
 
@@ -41,7 +51,7 @@ Ingeniero en Sistemas Computacionales especializado en el desarrollo web de APIs
 
 Diseño y desarrollo de la lógica de negocio con PHP/CodeIgniter 4, Tailwind CSS y bases de datos con MySQL, de sitios web y tiendas en línea para el posicionamiento en buscadores (CRM de Genotipo, Soluciones de Sujeción del Bajío, Cannabalance, Dulcerías Denny (web y API), HSM Sistemas de Metrología (web y sistema) y Universidad de Aztlán).
 
-### Desarrollador backend
+### Programador PHP
 
 **Prácticas profesionales**
 
@@ -49,7 +59,7 @@ Diseño y desarrollo de la lógica de negocio con PHP/CodeIgniter 4, Tailwind CS
 
 Diseño y desarrollo de una API RESTful con PHP y base de datos con MariaDB, de un sistema de administración de encuestas de ambiente laboral para el personal de la Presidencia Municipal de Celaya Guanajuato.
 
-### Desarrollador backend
+### Programador PHP
 
 **Servicio social profesional**
 
